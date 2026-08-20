@@ -1,0 +1,24 @@
+URBANIA SEO SETUP
+
+Upload/keep these in your site root:
+- index.html
+- robots.txt
+- sitemap.xml
+- each SEO folder (folder/index.html)
+
+Google Search Console:
+1. Verify https://www.urbanialuxurytours.com/
+2. Replace PASTE_YOUR_GOOGLE_SEARCH_CONSOLE_CODE_HERE in index.html with Google's verification token, if using HTML tag verification.
+3. Submit sitemap.xml
+4. Inspect and request indexing for the homepage and the SEO landing pages.
+
+SEO landing pages created:
+/urbania-maharaja-seat-rental-jaipur/
+/tempo-traveller-rental-jaipur/
+/innova-crysta-rental-jaipur/
+/rajasthan-tour-packages/
+/chardham-yatra-from-jaipur/
+/honeymoon-packages-rajasthan/
+/corporate-tours-jaipur/
+
+Important: ranking for every search query is not guaranteed. These pages create crawlable, keyword-relevant URLs and a stronger technical SEO base.
