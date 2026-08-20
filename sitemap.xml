@@ -1,15 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.urbanialuxurytours.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/chardham-yatra-from-jaipur/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/contact/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/corporate-tours-jaipur/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/gallery/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/honeymoon-packages-rajasthan/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/innova-crysta-rental-jaipur/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/jaipur-to-jaisalmer-tour/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/jaipur-to-udaipur-tour/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/rajasthan-tour-packages/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/tempo-traveller-rental-jaipur/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.urbanialuxurytours.com/urbania-maharaja-seat-rental-jaipur/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/chardham-yatra-from-jaipur/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/corporate-tours-jaipur/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/honeymoon-packages-rajasthan/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/innova-crysta-rental-jaipur/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/jaipur-to-jaisalmer-tour/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/jaipur-to-udaipur-tour/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/rajasthan-tour-packages/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/tempo-traveller-rental-jaipur/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://urbaniajaipur.in/urbania-maharaja-seat-rental-jaipur/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
