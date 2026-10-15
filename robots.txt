@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /plan
 
-Sitemap: https://www.urbanialuxurytours.com/sitemap.xml
+Sitemap: https://urbaniajaipur.in/sitemap.xml

@@ -1,0 +1,8 @@
+HOW TO UPLOAD (cPanel / Hostinger / any shared hosting)
+1. Hosting control panel > File Manager > open "public_html" (the folder your domain points to).
+2. Delete any old index.html / default page there.
+3. Upload this ZIP into public_html, right-click > Extract. index.html, 404.html, .htaccess, sitemap.xml and the assets folder must sit DIRECTLY inside public_html.
+4. Turn on HTTPS (free SSL).
+5. Open https://urbaniajaipur.in/ and test home, /rajasthan/jaipur, /fleet, WhatsApp.
+6. Google Search Console: add the site and submit https://urbaniajaipur.in/sitemap.xml.
+CURTAIN SPEED: it is now 3 seconds. To change it, search for curtain-ms near the top of each page and change content="3000" (milliseconds), or ask Claude to rebuild.
